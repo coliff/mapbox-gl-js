@@ -2,7 +2,7 @@ Mapbox GL JS has [API documentation](#writing-api-documentation) and [examples](
 
 ## Writing API Documentation
 
-API documentation is written as [JSDoc comments](http://usejsdoc.org/) and processed with [documentationjs](http://documentation.js.org/).
+API documentation is written as [JSDoc comments](http://usejsdoc.org/) and processed with [documentationjs](https://documentation.js.org/).
 
 * Classes, methods, events, and anything else in the public interface must be documented with JSDoc comments. Everything outside of the public interface may be documented and must be tagged as `@private`.
 * Text within JSDoc comments may use markdown formatting. Code identifiers must be surrounded by \`backticks\`.
